@@ -3,7 +3,7 @@
 <!--
 **EdmondFrank/EdmondFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<img align="right" width="60%" height="250" src="https://wakatime.com/share/@edmondfrank/e4d5d377-a307-4e9c-8363-d0230a5ec3b6.svg"/>
 
 - ⚡  I’m currently working with **Ruby** and **Rails**
 
@@ -14,6 +14,4 @@
 <!--
 <img align="right" alt="edmondfrank's github stats" width="58%" src="https://github-readme-stats.vercel.app/api?username=edmondfrank&count_private=true&show_icons=true"/>
 -->
-<!--
-<img align="left" width="32%" src="https://wakatime.com/share/@edmondfrank/4935878a-e2a7-4d8a-ad79-aa47e6820ac8.svg"/>
--->
+
