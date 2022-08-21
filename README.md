@@ -10,6 +10,8 @@
 
 - 📫 How to reach me: <a href="mailto: EdmomdFrank@Yahoo.com">send me a email</a>
 
+- 🙌 **Ruby, Elixir, Emacs** are amazing !!!
+
 <!--
 <img align="right" alt="edmondfrank's github stats" width="58%" src="https://github-readme-stats.vercel.app/api?username=edmondfrank&count_private=true&show_icons=true"/>
 -->
