@@ -8,7 +8,7 @@
 
 - 📖 I’m currently learning **Elixir** and **Rust**
 
-- 📫 How to reach me: <a href="mailto: EdmomdFrank@Yahoo.com">send me a email</a>
+- 📫 How to reach me: <a href="mailto: EdmondFrank@hotmail.com">send me a email</a>
 
 - 🙌 **Ruby, Elixir, Emacs** are amazing !!!
 
