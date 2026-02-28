@@ -6,7 +6,7 @@
 
 - ⚡  I’m currently working with **Ruby** and **Rails**
 
-- 📖 I’m currently learning **Elixir** and **Rust**
+- 📖 I’m currently learning **Elixir** and **Zig**
 
 - 📫 How to reach me: <a href="mailto: EdmondFrank@hotmail.com">send me a email</a>
 
