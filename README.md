@@ -4,7 +4,7 @@
 **EdmondFrank/EdmondFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ⚡  I’m currently working with **Ruby** and **Rails**
+- ⚡  I’m currently working with **Rails** and **Golang**
 
 - 📖 I’m currently learning **Elixir** and **Zig**
 
